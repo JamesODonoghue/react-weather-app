@@ -1,0 +1,21 @@
+.temp-card {
+    position: relative;
+    margin-top: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.temp-card__header {
+    font-size: 2rem;
+
+}
+
+.temp-card__main {
+    font-size: 7rem;
+
+}
+
+.temp-card__footer {
+
+}
